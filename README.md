@@ -5,7 +5,7 @@
 - 🖥️ I participate in online training of the platforms: [Rocketseat](https://www.rocketseat.com.br) and [Origamid](https://www.origamid.com/)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about [Git, React, JavaScript, Html, Css, Sass]
+- 💬 Ask me about `[Git, React, JavaScript, Html, Css, Sass]`
 - 📫 How to reach me: ...
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: ...
@@ -22,3 +22,5 @@
   <img align="center" alt="Fabio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fabio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/fabiofariasw/)
