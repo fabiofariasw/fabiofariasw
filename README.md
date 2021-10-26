@@ -10,6 +10,8 @@
 
 ![Fabio github stats](https://github-readme-stats.vercel.app/api?username=fabiofariasw&show_icons=true&theme=tokyonight)
 
+![Fabio github skils](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiofariasw&layout=compact&langs_count=7&theme=tokyonight)
+
 #
 <h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <p align="left"> 
