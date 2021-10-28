@@ -2,11 +2,9 @@
 
 - 🔭 I’m currently working as Front-End DiretoTech
 - 🌱 I’m learning about Javascript, React and Node
-- 🖥️ I participate in online training of the platforms: [Rocketseat](https://www.rocketseat.com.br) and [Origamid](https://www.origamid.com/)
-- 👯 I’m looking to collaborate on ...
+- 🖥️ I participate in online training of the platforms: [Rocketseat](https://www.rocketseat.com.br) and [Origamid](https://www.origamid.com/).
 - 💬 Ask me about `[Git, React, JavaScript, Html, Css, Sass]`
 - 😄 Pronouns: Him/His
-- ⚡ Fun fact: ...
 
 <div align="center">
   <a href="https://github.com/fabiofariasw">
