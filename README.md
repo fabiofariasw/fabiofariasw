@@ -1,9 +1,9 @@
 # Hi There, I'm Fabio Farias 👋
 
 - 🔭 I’m currently working as Front-End [Flora Energia](https://floraenergia.com.br/).
-- 🌱 I’m learning about ReactJs, NextJs and Node.
+- 🌱 I’m learning about NextJs and TypeScript.
 - 🖥️ I participate in online training of the platforms: [Rocketseat](https://www.rocketseat.com.br) and [Origamid](https://www.origamid.com/).
-- 💬 Ask me about `[Git, React, JavaScript, Html, Css, Sass]`
+- 💬 Ask me about `[Git, React, JavaScript, Html, Css, Sass, Node]`
 - 😄 Pronouns: Him/His
 
 
