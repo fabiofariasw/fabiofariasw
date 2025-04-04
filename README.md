@@ -3,7 +3,7 @@
 <!-- - 🔭 I’m currently working as Front-End [Globalsys](https://www.globalsys.com.br/). -->
 - 🌱 I’m learning about NextJs and TypeScript.
 - 🖥️ I participate in online training of the platforms: [Rocketseat](https://www.rocketseat.com.br), [Origamid](https://www.origamid.com/) and [FullCycle](https://fullcycle.com.br/).
-- 💬 Ask me about `[Git, React, JavaScript, Html, Css, Sass, Node]`
+- 💬 Ask me about `[Git, React, TypeScript, Html, Css, Node]`
 - 😄 Pronouns: Him/His
 
 
